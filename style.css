@@ -1,0 +1,23 @@
+.topHeader{
+    padding: 5px;
+    border: solid black 2px;
+}
+
+.mainContent{
+    border: solid black 2px;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+.aboutMe{
+border: red;
+}
+
+.projects{
+    border: red;
+
+}
+
+.contactMe{
+    border:solid red 2px ;
+}
